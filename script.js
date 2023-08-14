@@ -17,7 +17,7 @@ let score = 20;
 let highScore = 0;
 
 
-document.querySelector('.number').textContent = secretNumber;
+
 
 
 
